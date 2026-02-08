@@ -1,0 +1,13 @@
+{
+  "name": "Offline Chess",
+  "id": "chess",
+  "main": "./server.js",
+  "suggestionImage": "https://assetsio.gnwcdn.com/chess-playing-hand.jpeg?width=690&quality=85&format=jpg&dpr=1.5&auto=webp",
+  "version": "0.1.0",
+  "description": "Offline chess. Should be fun",
+  "icon": "♙",
+  "type": ["SummerApp"],
+  "customProtocols": [],
+  "tags": ["offline", "game"],
+  "quickkeys": ["chess"]
+}
